@@ -1,2 +1,2 @@
 # CS_Frontend
-homeworks
+npx ts-node filename
